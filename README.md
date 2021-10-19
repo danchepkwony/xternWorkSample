@@ -24,6 +24,10 @@ With this data, we can now choose the best workspace.
 
 ## Results
 
+## Average Distance and Rating of the Top 20 Restaurants
+
+![alt text](./RestaurantTable.png)
+
 ### Average Distance of the Top 20 Restaurants (miles)
 
 ![alt text](./AvgRestaurantDistance.png)
