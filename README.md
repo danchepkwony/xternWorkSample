@@ -18,8 +18,6 @@ In addition, I computed the distance between the housing and each workspace.
 
 The data collected is limited. Google Maps API only allows for 60 results per query. I could only receive 60 results from nearby restaurants. I made separate queries for each type of activity, so there’s a decent amount of data collected on activities. However, those queries were still limited.
 
-The activity places collected using Google Map's API were not ideal. Ranking these places with rating with no respect given to the amount of user ratings led to misleading results. A "Vintage" White Castle building has 5 stars on Google with only 2 reviews. With more time, I would collect data on the amount of user reviews and other metrics to better decice place quality.
-
 With this data, we can now choose the best workspace.
 
 ## Results
