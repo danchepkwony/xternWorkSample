@@ -28,11 +28,9 @@ With this data, we can now choose the best workspace.
 
 ## Conclusion
 
-I believe Industrious Mass Ave is the best workspace for Xterns this summer. 
+I believe Launch Indy is the best workspace for Xterns this summer. 
 
-It is the most proximal to the housing, has the highest top 20 nearby restaurant average rating, and has the lowest average distance for the top 20 nearby activities. 
-
-The one concern I have is the number of different activity types nearby. However, this number is based on Google’s Place types and limited to a 5 mile radius. The benefits of this workspace outweigh the potential of having to choose two similar activities within a 5 mile radius or the minor inconvenience of looking further than 5 miles for a biweekly activity.  
+It's proximal to housing. The average restaurant rating for it's top 20 restaurants is 4.5. It has the lowest average distance for nearby activities and nearby restaurants. In addition, it has the most diverse selection of activities in a 5 mile radius.
 
 I created the plan assuming the Xtern program starts June 2, 2022.
 
@@ -49,7 +47,7 @@ Dinner:
 June 9 - Bluebeard, 653 Virginia Ave, Indianapolis, IN 46203	
 
 Event:
-June 10 - Concert or sports game at Gainbridge Fieldhouse, 125 S Pennsylvania St, Indianapolis, IN 46204
+June 10 - Tour with The HandleBar, 501 Madison Ave, Indianapolis, IN 46225
 
 #### Week 3
 
@@ -78,6 +76,9 @@ Hine Hall Auditorium, 875 W North St, Indianapolis, IN 46202
 Dinner:
 July 7 - Shapiro's Delicatessen, 808 S Meridian St, Indianapolis, IN 46225
 
+Event:
+June 9 - Concert or sports game at Gainbridge Fieldhouse, 125 S Pennsylvania St, Indianapolis, IN 46204
+
 #### Week 7
 
 Dinner:
@@ -88,15 +89,18 @@ July 14 - Iaria's Italian Restaurant, 317 S College Ave, Indianapolis, IN 46202
 Dinner:
 July 21 - Ruth's Chris Steak House, 45 S Illinois St, Indianapolis, IN 46204
 
+Event:
+July 22 - Concert or event at Old National Centre, 502 N New Jersey St, Indianapolis, IN 46204
+
 #### Week 9
 
 Dinner:
 July 28 - Chatham Tap Mass Ave, 719 Massachusetts Ave, Indianapolis, IN 46204
 
-Event:
-
-
 #### Week 10
 
 Dinner:
 August 4 - Harry & Izzy's, 153 Illinois St, Indianapolis, IN 46225, USA	
+
+Event:
+August 5 - Sports game at Lucas Oil Stadium, 500 S Capitol Ave, Indianapolis, IN 46225
