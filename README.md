@@ -24,7 +24,18 @@ With this data, we can now choose the best workspace.
 
 ## Results
 
-[Insert diagrams]
+### Average Distance of the Top 20 Restaurants (miles)
+
+![alt text](./AvgRestaurantDistance.png)
+
+### Average Distance of the Top 20 Activities (miles)
+
+![alt text](./AvgActivityDistance.png)
+
+### Distance from Housing (miles)
+
+![alt text](./HousingDistance.png)
+
 
 ## Conclusion
 
