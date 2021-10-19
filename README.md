@@ -10,7 +10,7 @@ For the recreational activities and group dinners, we’ll need to gather data o
 
 ## Methods
 
-I used Google Map API to find nearby restaurants and recreational options for each workspace. Then, I found the top 20 nearby restaurants by user rating and the top 10 recreational options for each workspace. To find the top 20 restaurants, I filtered out restaurants with a price level lower than 1, which are usually fast food options. Then, I sorted the restaurants and activities based on rating. In addition, I computed the distance between the housing and each workspace.
+I used Google Maps API to find nearby restaurants and recreational options for each workspace. Then, I found the top 20 nearby restaurants by user rating and the top 10 recreational options for each workspace. To find the top 20 restaurants, I filtered out restaurants with a price level lower than 1, which are usually fast food options. Then, I sorted the restaurants and activities based on rating. In addition, I computed the distance between the housing and each workspace.
 
 The data collected is limited. Google Maps API only allows for 60 results per query. I could only receive 60 results from nearby restaurants. I made separate queries for each type of activity, so there’s a decent amount of data collected on activities. However, those queries were still limited.
 
